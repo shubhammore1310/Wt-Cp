@@ -11,7 +11,7 @@
     font-weight: 500;
     width: 80px;
     margin-right: 20px;
-    transition: 0.3s ease-in-out;
+    transition: 0.4s ease-in-out;
 }
 a:hover{
     color: #fddb3a;
@@ -40,7 +40,9 @@ a:hover{
     height: 7px;
     width: 7px;
     border-radius: 50%;
-    background-color: #f6f2f2;
-    opacity: 0.1;
+    /* color: #fddb3a; */
+    background-color: #fddb3a;
+ 
+    transition: 0.2s ease-in-out;
    
 }
