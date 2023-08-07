@@ -1,0 +1,13 @@
+.footer{
+    background: #292929;
+    position: absolute;
+    bottom: 0px;
+}
+#footerbar{
+    display: flex;
+}
+#cp{
+    background: #4d4d4d;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1vw;
+}
